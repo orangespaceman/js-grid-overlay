@@ -1,0 +1,12 @@
+html,
+body {
+    margin:0;
+    padding:0;
+    background: #fff;
+}
+
+#box {
+    border:1px solid #f90;
+    padding : 2em;
+    margin : 2em;
+}
