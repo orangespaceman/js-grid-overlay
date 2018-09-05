@@ -1,6 +1,5 @@
 /*
  * function to add a background grid/image to an html element on key presses
- * @author pete goodman - petegoodman.com
  */
 
 var grid = {
